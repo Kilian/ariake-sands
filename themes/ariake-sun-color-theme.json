@@ -472,7 +472,7 @@
     },
     {
       "name": "Invalid: Illegal",
-      "scope": " invalid.illegal",
+      "scope": "invalid.illegal",
       "settings": {
         "foreground": "#ffffff",
         "background": "#e05252"
